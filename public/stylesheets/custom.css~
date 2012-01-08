@@ -35,7 +35,7 @@ footer {
 }
 
 footer nav {
-/*	float: none; */
+	float: none;
 }
 
 
